@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My Test Site",
+    "description": "",
+    "home_page_url": "https://jmsstuff.github.io/gh-test-pages",
+    "feed_url": "https://jmsstuff.github.io/gh-test-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Joan"
+    },
+    "items": [
+        {
+            "id": "https://jmsstuff.github.io/gh-test-pages/cronometer-free-and-easy-to-use-food-diary.html",
+            "url": "https://jmsstuff.github.io/gh-test-pages/cronometer-free-and-easy-to-use-food-diary.html",
+            "title": "Cronometer: Free and Easy-to-Use Food Diary",
+            "summary": "Cronometer is a food diary that provides a comprehensive database of foods (so you don’t have to enter foods or&hellip;",
+            "content_html": "<p><a href=\"https://cronometer.com/index.html\" title=\"Cronometer food diary\" target=\"_blank\" rel=\"noopener noreferrer\">Cronometer</a> is a food diary that provides a comprehensive database of foods (so you don’t have to enter foods or nutritional values manually) and a detailed display of information. In addition to the standard breakout of calories, carbohydrates, protein, and fat amounts, it displays vitamins, minerals, added sugars, and more. Cronometer also allows for logging exercise, weight, and other biometrics.</p>\n<p>Best of all, it comes at a very economical price – free! There is also a “Gold” level, but even that's a low annual fee. Cronometer has both a web-based interface and mobile apps (iOS and Android). I like having both options so I can use my laptop (larger screen for my aging eyes) when I’m home and the mobile app for when I travel.</p>",
+            "image": "https://jmsstuff.github.io/gh-test-pages/media/posts/2/melissa-walker-horn-URSho6okPfs-unsplash.jpg",
+            "author": {
+                "name": "Joan"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-09T17:00:56-04:00",
+            "date_modified": "2026-03-09T17:46:20-04:00"
+        }
+    ]
+}
